@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-primary-50: #eef0ff;
+  --color-primary-100: #e0e4ff;
+  --color-primary-200: #c7ccfe;
+  --color-primary-300: #a5aafc;
+  --color-primary-400: #8b8df8;
+  --color-primary-500: #7a6ef3;
+  --color-primary-600: #5865f2;
+  --color-primary-700: #4752c4;
+  --color-primary-800: #3c449e;
+  --color-primary-900: #35397d;
+  --color-primary-950: #23264a;
+
+  --font-primary: "Poppins", system-ui, -apple-system, sans-serif;
+  --font-inter: "Inter", system-ui, -apple-system, sans-serif;
+}
